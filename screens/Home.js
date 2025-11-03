@@ -12,7 +12,7 @@ export default function Home() {
         style={styles.Logo}
       />
 
-      <Text style={styles.homeTitulo}>🐾 Bem-vindo ao VetBagé 🐾</Text>
+      <Text style={styles.homeTitulo}>🐾 Bem-vindo ao VetFinder 🐾</Text>
 
       <Text style={styles.homeDescricao}>
         Encontre as melhores clínicas veterinárias e pet shops de <Text style={styles.sobreTextoDestaqueVerde}>Bagé - RS</Text>. 

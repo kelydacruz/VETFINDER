@@ -6,12 +6,12 @@ export default function Sobre() {
      <ImageBackground source={require('../assets/fundo2.png')} resizeMode='cover' style={styles.container}>
       <Image source={require('../assets/icon.png')} style={styles.Logo} />
 
-      <Text style={styles.sobreTitulo}>🐾 VetBagé</Text>
+      <Text style={styles.sobreTitulo}>🐾 VetFinder 🐾</Text>
 
       <Text style={styles.sobreTexto}>
-        O <Text style={styles.sobreTextoDestaqueAzul}>VetBagé</Text> é um aplicativo desenvolvido
+        O <Text style={styles.sobreTextoDestaqueAzul}>VetFinder</Text> é um aplicativo desenvolvido
         para facilitar o acesso a informações sobre clínicas veterinárias e pet shops
-        da cidade de <Text style={styles.sobreTextoDestaqueVerde}>Bagé - RS</Text>.
+        da cidade de <Text style={styles.sobreTextoDestaqueVerde}>Bagé-RS</Text>.
       </Text>
 
       <Text style={styles.sobreTexto}>
